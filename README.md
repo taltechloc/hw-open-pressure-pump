@@ -1,2 +1,3 @@
 # hw-open-pressure-pump
-Low-cost, portable dual-channel pressure pump for droplet microfluidics
+
+Preparing for upload, please check back in May 2022. 
